@@ -1,0 +1,12 @@
+{
+  "name": "poll-tracker",
+  "version": "1.0.0",
+  "description": "Timestamped poll tracker for WhatsApp",
+  "main": "whatsapp-poll-tracker.js",
+  "scripts": {
+    "start": "node whatsapp-poll-tracker.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
